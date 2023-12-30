@@ -20,8 +20,8 @@
 
 ### Links
 
-- Solution URL: [](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
-- Live Site URL: ([](https://alexnder6500.github.io/QR-code-component/))
+- Solution URL: https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H
+- Live Site URL: https://alexnder6500.github.io/QR-code-component/
 
 ## My process
 
