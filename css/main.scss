@@ -1,0 +1,38 @@
+* {
+    max-width: 1440px;
+
+}
+
+body {
+    background-color: hsl(212, 45%, 89%);
+    font-family: 'Outfit', sans-serif;
+    font-size: 15px;
+    max-height: 800px;
+    
+}
+
+.container {
+    
+    img {
+       width: 320px;
+       border-radius:.9em;
+    }
+
+    text-align: center;
+    width: 320px;
+    height: 520px;
+    padding: 16px;
+    margin: 50px auto;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: .9em;
+
+    h1 {
+        font-size: 1.6rem;
+        color: hsl(218, 44%, 22%);
+    }
+
+    p {
+        font-size: 1.2rem;
+        color: hsl(220, 15%, 55%);
+    }
+}
